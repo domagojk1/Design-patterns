@@ -1,0 +1,1440 @@
+RONJENJA:
+-----------------------------------------------------
+Datum i vrijeme urona grupe: 2016.01.01 10:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 5
+Ronioci:
+Biba, razina: R2, dubina: 10
+Tedo, razina: I3, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.01.01 10:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 5
+Ronioci:
+Duda, razina: R4, dubina: 10
+Gego, razina: R4, dubina: 10
+Nena, razina: R4, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.04.22 10:00
+Maksimalna dubina: 8
+Maksimalan broj ronioca: 9
+Ronioci:
+Biba, razina: R2, dubina: 8
+Filip, razina: R2, dubina: 8
+Pero, razina: I0, dubina: 8
+
+Datum i vrijeme urona grupe: 2016.04.22 10:00
+Maksimalna dubina: 8
+Maksimalan broj ronioca: 9
+Ronioci:
+Nina, razina: R3, dubina: 8
+Jasna, razina: R3, dubina: 8
+
+Datum i vrijeme urona grupe: 2016.04.22 10:00
+Maksimalna dubina: 8
+Maksimalan broj ronioca: 9
+Ronioci:
+Tiho, razina: R3, dubina: 8
+Heda, razina: R4, dubina: 8
+
+Datum i vrijeme urona grupe: 2016.04.22 10:00
+Maksimalna dubina: 8
+Maksimalan broj ronioca: 9
+Ronioci:
+Nena, razina: R4, dubina: 8
+Duda, razina: R4, dubina: 8
+
+Datum i vrijeme urona grupe: 2016.04.22 15:00
+Maksimalna dubina: 20
+Maksimalan broj ronioca: 9
+Ronioci:
+Biba, razina: R2, dubina: 20
+Filip, razina: R2, dubina: 20
+Pero, razina: I0, dubina: 20
+
+Datum i vrijeme urona grupe: 2016.04.22 15:00
+Maksimalna dubina: 20
+Maksimalan broj ronioca: 9
+Ronioci:
+Nina, razina: R3, dubina: 20
+Jasna, razina: R3, dubina: 20
+
+Datum i vrijeme urona grupe: 2016.04.22 15:00
+Maksimalna dubina: 20
+Maksimalan broj ronioca: 9
+Ronioci:
+Tiho, razina: R3, dubina: 20
+Heda, razina: R4, dubina: 20
+
+Datum i vrijeme urona grupe: 2016.04.22 15:00
+Maksimalna dubina: 20
+Maksimalan broj ronioca: 9
+Ronioci:
+Nena, razina: R4, dubina: 20
+Duda, razina: R4, dubina: 20
+
+Datum i vrijeme urona grupe: 2016.05.01 11:20
+Maksimalna dubina: 20
+Maksimalan broj ronioca: 7
+Ronioci:
+Aldo, razina: R1, dubina: 20
+Mato, razina: R2, dubina: 20
+Jura, razina: I4, dubina: 20
+
+Datum i vrijeme urona grupe: 2016.05.01 11:20
+Maksimalna dubina: 20
+Maksimalan broj ronioca: 7
+Ronioci:
+Vesna, razina: R2, dubina: 20
+Ivo, razina: R2, dubina: 20
+Gego, razina: R4, dubina: 20
+
+Datum i vrijeme urona grupe: 2016.05.01 11:20
+Maksimalna dubina: 20
+Maksimalan broj ronioca: 7
+Ronioci:
+
+Datum i vrijeme urona grupe: 2016.05.08 10:20
+Maksimalna dubina: 15
+Maksimalan broj ronioca: 3
+Ronioci:
+Goga, razina: I3, dubina: 15
+Jura, razina: I4, dubina: 15
+Jasna, razina: R3, dubina: 15
+
+Datum i vrijeme urona grupe: 2016.06.10 10:30
+Maksimalna dubina: 40
+Maksimalan broj ronioca: 9
+Ronioci:
+Aldo, razina: R1, dubina: 40
+Mira, razina: R2, dubina: 20
+Pero, razina: I0, dubina: 40
+
+Datum i vrijeme urona grupe: 2016.06.10 10:30
+Maksimalna dubina: 40
+Maksimalan broj ronioca: 9
+Ronioci:
+Tedo, razina: I3, dubina: 40
+Goga, razina: I3, dubina: 40
+
+Datum i vrijeme urona grupe: 2016.06.10 10:30
+Maksimalna dubina: 40
+Maksimalan broj ronioca: 9
+Ronioci:
+Jura, razina: I4, dubina: 40
+Nina, razina: R3, dubina: 40
+
+Datum i vrijeme urona grupe: 2016.06.10 10:30
+Maksimalna dubina: 40
+Maksimalan broj ronioca: 9
+Ronioci:
+Heda, razina: R4, dubina: 40
+Duda, razina: R4, dubina: 40
+
+Datum i vrijeme urona grupe: 2016.06.10 14:30
+Maksimalna dubina: 30
+Maksimalan broj ronioca: 5
+Ronioci:
+Aldo, razina: R1, dubina: 30
+Mira, razina: R2, dubina: 20
+Pero, razina: I0, dubina: 30
+
+Datum i vrijeme urona grupe: 2016.06.10 14:30
+Maksimalna dubina: 30
+Maksimalan broj ronioca: 5
+Ronioci:
+Tedo, razina: I3, dubina: 30
+Goga, razina: I3, dubina: 30
+
+Datum i vrijeme urona grupe: 2016.06.10 14:30
+Maksimalna dubina: 30
+Maksimalan broj ronioca: 5
+Ronioci:
+Jura, razina: I4, dubina: 30
+Nina, razina: R3, dubina: 30
+
+Datum i vrijeme urona grupe: 2016.06.10 14:30
+Maksimalna dubina: 30
+Maksimalan broj ronioca: 5
+Ronioci:
+Heda, razina: R4, dubina: 30
+Duda, razina: R4, dubina: 30
+
+Datum i vrijeme urona grupe: 2016.08.11 10:00
+Maksimalna dubina: 33
+Maksimalan broj ronioca: 5
+Ronioci:
+Luka, razina: R1, dubina: 33
+Vesna, razina: R2, dubina: 33
+Goga, razina: I3, dubina: 33
+
+Datum i vrijeme urona grupe: 2016.08.11 10:00
+Maksimalna dubina: 33
+Maksimalan broj ronioca: 5
+Ronioci:
+Tiho, razina: R3, dubina: 33
+Jasna, razina: R3, dubina: 33
+
+Datum i vrijeme urona grupe: 2016.08.11 15:30
+Maksimalna dubina: 30
+Maksimalan broj ronioca: 7
+Ronioci:
+Luka, razina: R1, dubina: 30
+Vesna, razina: R2, dubina: 30
+Goga, razina: I3, dubina: 30
+
+Datum i vrijeme urona grupe: 2016.08.11 15:30
+Maksimalna dubina: 30
+Maksimalan broj ronioca: 7
+Ronioci:
+Tiho, razina: R3, dubina: 30
+Jasna, razina: R3, dubina: 30
+
+Datum i vrijeme urona grupe: 2016.08.12 10:20
+Maksimalna dubina: 38
+Maksimalan broj ronioca: 8
+Ronioci:
+Luka, razina: R1, dubina: 20
+Pero, razina: I0, dubina: 38
+
+Datum i vrijeme urona grupe: 2016.08.12 10:20
+Maksimalna dubina: 38
+Maksimalan broj ronioca: 8
+Ronioci:
+Ivo, razina: R2, dubina: 38
+Goga, razina: I3, dubina: 38
+
+Datum i vrijeme urona grupe: 2016.08.12 10:20
+Maksimalna dubina: 38
+Maksimalan broj ronioca: 8
+Ronioci:
+Filip, razina: R2, dubina: 38
+Tiho, razina: R3, dubina: 38
+
+Datum i vrijeme urona grupe: 2016.08.12 10:20
+Maksimalna dubina: 38
+Maksimalan broj ronioca: 8
+Ronioci:
+Nina, razina: R3, dubina: 38
+Jasna, razina: R3, dubina: 38
+
+Datum i vrijeme urona grupe: 2016.08.12 15:00
+Maksimalna dubina: 25
+Maksimalan broj ronioca: 7
+Ronioci:
+Luka, razina: R1, dubina: 20
+Pero, razina: I0, dubina: 25
+
+Datum i vrijeme urona grupe: 2016.08.12 15:00
+Maksimalna dubina: 25
+Maksimalan broj ronioca: 7
+Ronioci:
+Ivo, razina: R2, dubina: 25
+Goga, razina: I3, dubina: 25
+
+Datum i vrijeme urona grupe: 2016.08.12 15:00
+Maksimalna dubina: 25
+Maksimalan broj ronioca: 7
+Ronioci:
+Filip, razina: R2, dubina: 25
+Tiho, razina: R3, dubina: 25
+
+Datum i vrijeme urona grupe: 2016.08.12 15:00
+Maksimalna dubina: 25
+Maksimalan broj ronioca: 7
+Ronioci:
+Nina, razina: R3, dubina: 25
+Jasna, razina: R3, dubina: 25
+
+Datum i vrijeme urona grupe: 2016.08.12 22:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 6
+Ronioci:
+Luka, razina: R1, dubina: 10
+Pero, razina: I0, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.08.12 22:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 6
+Ronioci:
+Luka, razina: R1, dubina: 10
+Pero, razina: I0, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.08.12 22:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 6
+Ronioci:
+Ivo, razina: R2, dubina: 10
+Goga, razina: I3, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.08.12 22:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 6
+Ronioci:
+Filip, razina: R2, dubina: 10
+Goga, razina: I3, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.08.12 22:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 6
+Ronioci:
+Ivo, razina: R2, dubina: 10
+Tiho, razina: R3, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.08.12 22:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 6
+Ronioci:
+Filip, razina: R2, dubina: 10
+Nina, razina: R3, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.08.12 22:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 6
+Ronioci:
+Jasna, razina: R3, dubina: 10
+Tiho, razina: R3, dubina: 10
+
+Datum i vrijeme urona grupe: 2016.08.12 22:00
+Maksimalna dubina: 10
+Maksimalan broj ronioca: 6
+Ronioci:
+Nina, razina: R3, dubina: 10
+Jasna, razina: R3, dubina: 10
+
+RONIOCI:
+-----------------------------------------------------
+Biba 1993 NAUI Advanced Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.01.01 10:00
+Max. dubina: 10
+Partneri:
+Biba
+Tedo
+
+
+Tedo 1983 BSAC Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.01.01 10:00
+Max. dubina: 10
+Partneri:
+Biba
+Tedo
+
+
+Duda 1992 BSAC Sports Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.01.01 10:00
+Max. dubina: 10
+Partneri:
+Duda
+Gego
+Nena
+
+
+Gego 1989 NAUI Master Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.01.01 10:00
+Max. dubina: 10
+Partneri:
+Duda
+Gego
+Nena
+
+
+Nena 1989 SSI Advanced Open Water Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.01.01 10:00
+Max. dubina: 10
+Partneri:
+Duda
+Gego
+Nena
+
+
+Biba 1993 NAUI Advanced Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Biba
+Filip
+Pero
+
+
+Filip 1989 BSAC Ocean Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Biba
+Filip
+Pero
+
+
+Pero 1980 CMAS Three Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Biba
+Filip
+Pero
+
+
+Nina 1984 SSI Diver Stress & Rescue
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Nina
+Jasna
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Nina
+Jasna
+
+
+Tiho 1984 CMAS Two Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Tiho
+Heda
+
+
+Heda 1988 SSI Advanced Open Water Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Tiho
+Heda
+
+
+Nena 1989 SSI Advanced Open Water Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Nena
+Duda
+
+
+Duda 1992 BSAC Sports Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 10:00
+Max. dubina: 8
+Partneri:
+Nena
+Duda
+
+
+Biba 1993 NAUI Advanced Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Biba
+Filip
+Pero
+
+
+Filip 1989 BSAC Ocean Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Biba
+Filip
+Pero
+
+
+Pero 1980 CMAS Three Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Biba
+Filip
+Pero
+
+
+Nina 1984 SSI Diver Stress & Rescue
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Nina
+Jasna
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Nina
+Jasna
+
+
+Tiho 1984 CMAS Two Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Tiho
+Heda
+
+
+Heda 1988 SSI Advanced Open Water Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Tiho
+Heda
+
+
+Nena 1989 SSI Advanced Open Water Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Nena
+Duda
+
+
+Duda 1992 BSAC Sports Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.04.22 15:00
+Max. dubina: 20
+Partneri:
+Nena
+Duda
+
+
+Aldo 1990 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.01 11:20
+Max. dubina: 20
+Partneri:
+Aldo
+Mato
+Jura
+
+
+Mato 1982 CMAS One Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.01 11:20
+Max. dubina: 20
+Partneri:
+Aldo
+Mato
+Jura
+
+
+Jura 1977 BSAC Advanced Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.01 11:20
+Max. dubina: 20
+Partneri:
+Aldo
+Mato
+Jura
+
+
+Vesna 1997 CMAS One Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.01 11:20
+Max. dubina: 20
+Partneri:
+Vesna
+Ivo
+Gego
+
+
+Ivo 1981 SSI Advanced Adventure
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.01 11:20
+Max. dubina: 20
+Partneri:
+Vesna
+Ivo
+Gego
+
+
+Gego 1989 NAUI Master Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.01 11:20
+Max. dubina: 20
+Partneri:
+Vesna
+Ivo
+Gego
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.08 10:20
+Max. dubina: 15
+Partneri:
+Goga
+Jura
+Jasna
+
+
+Jura 1977 BSAC Advanced Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.08 10:20
+Max. dubina: 15
+Partneri:
+Goga
+Jura
+Jasna
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.05.08 10:20
+Max. dubina: 15
+Partneri:
+Goga
+Jura
+Jasna
+
+
+Aldo 1990 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 40
+Partneri:
+Aldo
+Mira
+Pero
+
+
+Mira 1993 SSI Advanced Adventure
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 20
+Partneri:
+Aldo
+Mira
+Pero
+
+
+Pero 1980 CMAS Three Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 40
+Partneri:
+Aldo
+Mira
+Pero
+
+
+Tedo 1983 BSAC Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 40
+Partneri:
+Tedo
+Goga
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 40
+Partneri:
+Tedo
+Goga
+
+
+Jura 1977 BSAC Advanced Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 40
+Partneri:
+Jura
+Nina
+
+
+Nina 1984 SSI Diver Stress & Rescue
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 40
+Partneri:
+Jura
+Nina
+
+
+Heda 1988 SSI Advanced Open Water Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 40
+Partneri:
+Heda
+Duda
+
+
+Duda 1992 BSAC Sports Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 10:30
+Max. dubina: 40
+Partneri:
+Heda
+Duda
+
+
+Aldo 1990 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 30
+Partneri:
+Aldo
+Mira
+Pero
+
+
+Mira 1993 SSI Advanced Adventure
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 20
+Partneri:
+Aldo
+Mira
+Pero
+
+
+Pero 1980 CMAS Three Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 30
+Partneri:
+Aldo
+Mira
+Pero
+
+
+Tedo 1983 BSAC Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 30
+Partneri:
+Tedo
+Goga
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 30
+Partneri:
+Tedo
+Goga
+
+
+Jura 1977 BSAC Advanced Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 30
+Partneri:
+Jura
+Nina
+
+
+Nina 1984 SSI Diver Stress & Rescue
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 30
+Partneri:
+Jura
+Nina
+
+
+Heda 1988 SSI Advanced Open Water Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 30
+Partneri:
+Heda
+Duda
+
+
+Duda 1992 BSAC Sports Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.06.10 14:30
+Max. dubina: 30
+Partneri:
+Heda
+Duda
+
+
+Luka 1981 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 10:00
+Max. dubina: 33
+Partneri:
+Luka
+Vesna
+Goga
+
+
+Vesna 1997 CMAS One Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 10:00
+Max. dubina: 33
+Partneri:
+Luka
+Vesna
+Goga
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 10:00
+Max. dubina: 33
+Partneri:
+Luka
+Vesna
+Goga
+
+
+Tiho 1984 CMAS Two Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 10:00
+Max. dubina: 33
+Partneri:
+Tiho
+Jasna
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 10:00
+Max. dubina: 33
+Partneri:
+Tiho
+Jasna
+
+
+Luka 1981 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 15:30
+Max. dubina: 30
+Partneri:
+Luka
+Vesna
+Goga
+
+
+Vesna 1997 CMAS One Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 15:30
+Max. dubina: 30
+Partneri:
+Luka
+Vesna
+Goga
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 15:30
+Max. dubina: 30
+Partneri:
+Luka
+Vesna
+Goga
+
+
+Tiho 1984 CMAS Two Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 15:30
+Max. dubina: 30
+Partneri:
+Tiho
+Jasna
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.11 15:30
+Max. dubina: 30
+Partneri:
+Tiho
+Jasna
+
+
+Luka 1981 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 10:20
+Max. dubina: 20
+Partneri:
+Luka
+Pero
+
+
+Pero 1980 CMAS Three Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 10:20
+Max. dubina: 38
+Partneri:
+Luka
+Pero
+
+
+Ivo 1981 SSI Advanced Adventure
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 10:20
+Max. dubina: 38
+Partneri:
+Ivo
+Goga
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 10:20
+Max. dubina: 38
+Partneri:
+Ivo
+Goga
+
+
+Filip 1989 BSAC Ocean Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 10:20
+Max. dubina: 38
+Partneri:
+Filip
+Tiho
+
+
+Tiho 1984 CMAS Two Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 10:20
+Max. dubina: 38
+Partneri:
+Filip
+Tiho
+
+
+Nina 1984 SSI Diver Stress & Rescue
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 10:20
+Max. dubina: 38
+Partneri:
+Nina
+Jasna
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 10:20
+Max. dubina: 38
+Partneri:
+Nina
+Jasna
+
+
+Luka 1981 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 15:00
+Max. dubina: 20
+Partneri:
+Luka
+Pero
+
+
+Pero 1980 CMAS Three Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 15:00
+Max. dubina: 25
+Partneri:
+Luka
+Pero
+
+
+Ivo 1981 SSI Advanced Adventure
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 15:00
+Max. dubina: 25
+Partneri:
+Ivo
+Goga
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 15:00
+Max. dubina: 25
+Partneri:
+Ivo
+Goga
+
+
+Filip 1989 BSAC Ocean Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 15:00
+Max. dubina: 25
+Partneri:
+Filip
+Tiho
+
+
+Tiho 1984 CMAS Two Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 15:00
+Max. dubina: 25
+Partneri:
+Filip
+Tiho
+
+
+Nina 1984 SSI Diver Stress & Rescue
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 15:00
+Max. dubina: 25
+Partneri:
+Nina
+Jasna
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 15:00
+Max. dubina: 25
+Partneri:
+Nina
+Jasna
+
+
+Luka 1981 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Luka
+Pero
+
+
+Pero 1980 CMAS Three Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Luka
+Pero
+
+
+Luka 1981 NAUI Scuba Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Luka
+Pero
+
+
+Pero 1980 CMAS Three Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Luka
+Pero
+
+
+Ivo 1981 SSI Advanced Adventure
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Ivo
+Goga
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Ivo
+Goga
+
+
+Filip 1989 BSAC Ocean Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Filip
+Goga
+
+
+Goga 1987 SSI Open Water Instructor
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Filip
+Goga
+
+
+Ivo 1981 SSI Advanced Adventure
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Ivo
+Tiho
+
+
+Tiho 1984 CMAS Two Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Ivo
+Tiho
+
+
+Filip 1989 BSAC Ocean Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Filip
+Nina
+
+
+Nina 1984 SSI Diver Stress & Rescue
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Filip
+Nina
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Jasna
+Tiho
+
+
+Tiho 1984 CMAS Two Star Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Jasna
+Tiho
+
+
+Nina 1984 SSI Diver Stress & Rescue
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Nina
+Jasna
+
+
+Jasna 1978 NAUI Scuba Rescue Diver
+Sudjelovao/la u ronjenjima:
+----------------------------
+
+
+2016.08.12 22:00
+Max. dubina: 10
+Partneri:
+Nina
+Jasna
+
+
